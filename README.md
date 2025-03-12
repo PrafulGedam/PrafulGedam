@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PrafulGedam
 - 👀 I’m interested in ... coding
-- 🌱 I’m currently learning ... Data Science, Machine Learning,SQL,Tableau
+- 🌱 I’m currently..... Data Science,SQL,Tableau, Looker studio, power Bi
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...Linkdin
 
